@@ -1,2 +1,2 @@
 # Egitimler
-Egitimlerde kullanilacak tum orneklere bradan ulasilabilir.
+Egitimlerde kullanilacak tum orneklere buradan ulasilabilir.
