@@ -4,7 +4,7 @@
 
 Aşağıdaki sayfalar, TRUBA'da farklı iş yürütme örneklerini içerir.
 
-[Srun kullanarak tek bir program çalıştırma](alt%20başlıklar/Srun%20kullanarak%20tek%20bir%20programc%CC%A7al%C4%B1s%CC%A7t%C4%B1rma.md)
+[Srun kullanarak tek bir program çalıştırma](alt%20başlıklar/Srun%20kullanarak%20tek%20bir%20program%20c%CC%A7al%C4%B1s%CC%A7t%C4%B1rma.md)
 
 [Sbatch kullanarak TRUBA'da bir veya daha fazla programın komut dosyasını çalıştırma](alt%20başlıklar/Sbatch%20kullanarak%20TRUBA'da%20bir%20veya%20daha%20fazla%20pro.md)
 
